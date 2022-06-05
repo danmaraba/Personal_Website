@@ -148,3 +148,16 @@ body{
     margin-bottom: 100px;
     font-size: x-large;
 }
+
+.footer{
+    background-color: white;
+    height: 100px;
+    width: 100%;
+
+}
+
+.footercontent{
+    padding-left: 600px;
+    color:rgb(1, 5, 40);
+    font-size: large;
+}

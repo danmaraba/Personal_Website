@@ -53,3 +53,11 @@ body{
     margin-top: 80px;
     border-radius: 10px;
 }
+
+.icons{
+    color: goldenrod;
+    padding-left: 200px;
+    margin-top: 100px;
+    font-size: x-large;
+
+}

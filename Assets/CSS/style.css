@@ -3,22 +3,31 @@ body{
 }
 .name{
     font-size: x-large;
+    color: goldenrod;
 }
 .navbar{
     list-style: none;
     display: inline-flex;
     font-weight: bold;
-    padding-left: 100px;
+    padding-left: 200px;
     color: white;
 }
 
 .navbaritems{
     display: inline-flex;
-    padding-left: 400px;
+    padding-left: 600px;
     margin-top: 9px;
 }
 
 .navbaritems li{
     margin-left: 70px;
 
+}
+
+.welcome{
+    color: white;
+    padding-left: 200px;
+    margin-top: 300px;
+    font-size: xx-large;
+    font-weight: bold;
 }

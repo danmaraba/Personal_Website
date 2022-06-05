@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+.navbar{
+    list-style: none;
+    display: inline-flex;
+    font-weight: bold;
+    padding-left: 100px;
+    color: white;
+}
+
+.navbaritems{
+    display: inline-flex;
+    padding-left: 400px;
+}
+
+.navbaritems li{
+    margin-left: 70px;
+
+}

@@ -33,7 +33,7 @@ body{
 }
 
 .web{
-    color: white;
+    color: goldenrod;
     padding-left: 200px;
     margin-top: 40px;
     font-size: x-large;
@@ -48,7 +48,8 @@ body{
 
 }
 .image img{
-    padding-left: 1100px;
+    padding-left: 1200px;
     height: 700px;
     margin-top: 80px;
+    border-radius: 10px;
 }

@@ -28,6 +28,14 @@ body{
     color: white;
     padding-left: 200px;
     margin-top: 300px;
-    font-size: xx-large;
+    font-size: large;
+    font-weight: bold;
+}
+
+.web{
+    color: white;
+    padding-left: 200px;
+    margin-top: 40px;
+    font-size: x-large;
     font-weight: bold;
 }

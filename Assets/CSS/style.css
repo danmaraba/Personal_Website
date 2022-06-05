@@ -39,3 +39,11 @@ body{
     font-size: x-large;
     font-weight: bold;
 }
+
+.paragraph{
+    color: white;
+    padding-left: 200px;
+    margin-top: 40px;
+    line-height: 2.5rem;
+
+}

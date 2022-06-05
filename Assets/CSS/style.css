@@ -63,12 +63,15 @@ body{
 
 #fb:hover{
     color: blue;
+    transition: 0.2s;
 }
 
 #twitter:hover{
     color: blue;
+    transition: 0.2s;
 }
 
 #linkedin:hover{
     color: blue;
+    transition: 0.2s;
 }

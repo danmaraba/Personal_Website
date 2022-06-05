@@ -27,7 +27,7 @@ body{
 .welcome{
     color: white;
     padding-left: 200px;
-    margin-top: 300px;
+    margin-top: -600px;
     font-size: large;
     font-weight: bold;
 }
@@ -46,4 +46,9 @@ body{
     margin-top: 40px;
     line-height: 2.5rem;
 
+}
+.image img{
+    padding-left: 1100px;
+    height: 700px;
+    margin-top: 80px;
 }

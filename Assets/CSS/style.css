@@ -1,7 +1,9 @@
 body{
     background-color: rgb(1, 5, 40);
 }
-
+.name{
+    font-size: x-large;
+}
 .navbar{
     list-style: none;
     display: inline-flex;
@@ -13,6 +15,7 @@ body{
 .navbaritems{
     display: inline-flex;
     padding-left: 400px;
+    margin-top: 9px;
 }
 
 .navbaritems li{

@@ -2,6 +2,7 @@
 Personal_Website
 ## Author
  By Daniel Kipruto
+ ![Screenshot](/home/moringa/Documents/Development/code/personal_website/Assets/Images/Screenshot from 2022-06-06 08-22-48.png)
  ### Description
  A personal website highlighting my journey in software development course
  ## Project Set Up Instructions

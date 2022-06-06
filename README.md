@@ -2,6 +2,7 @@
 Personal_Website
 ## Author
  By Daniel Kipruto
+![Screenshot](./Assets/Images/Screenshot%20from%202022-06-06%2009-26-15.png)
  ### Description
  A personal website highlighting my journey in software development course
  ## Project Set Up Instructions

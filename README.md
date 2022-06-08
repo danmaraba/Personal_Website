@@ -14,7 +14,6 @@ https://github.com/danmaraba/Personal_Website.git
  ## Technologies Used
  CSS
  HTML
- Javascript
  GITHUB
  ### License
  The project is under MIT

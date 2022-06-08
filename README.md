@@ -11,9 +11,13 @@ Personal_Website
 https://github.com/danmaraba/Personal_Website.git
  Cd Personal_Website
  Use vscode to open it
+ ## Live link
+ [Personal website](https://github.com/danmaraba/Personal_Website)
  ## Technologies Used
  CSS
  HTML
  GITHUB
+ ## Support
+ You can reach out to me via my email: [E-mail](danielkmaraba@gmail.com)
  ### License
  The project is under MIT
